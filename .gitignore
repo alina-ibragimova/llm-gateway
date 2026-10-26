@@ -1,0 +1,19 @@
+# Секреты: никогда не коммитим
+.env
+.env.*
+!.env.example
+
+# Собранные бинарники
+/bin/
+*.exe
+
+# Артефакты тестов и покрытия
+*.test
+*.out
+coverage.*
+
+# IDE и система
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

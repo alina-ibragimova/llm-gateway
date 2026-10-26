@@ -1,0 +1,6 @@
+{
+  "stream": true,
+  "messages": [
+    {"role": "user", "content": "Write a 150-word story about a gopher who learns concurrency."}
+  ]
+}

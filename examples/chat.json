@@ -1,0 +1,8 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Explain in one sentence what a goroutine is."
+    }
+  ]
+}
